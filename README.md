@@ -1,1 +1,3 @@
-# .github
+# Settler
+
+https://settler.cc/
